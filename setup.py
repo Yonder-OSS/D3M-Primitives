@@ -11,7 +11,7 @@ setup(
         "scipy>=1.2.1,<=1.3.1",
         "scikit-learn[alldeps]>=0.20.3,<=0.21.3",
         "pandas>=0.23.4,<=0.25.2",
-        "tensorflow-gpu == 2.0.0",
+        "tensorflow-gpu == 2.12.0",
         "tslearn == 0.2.5",
         "statsmodels==0.10.2",
         "pmdarima==1.0.0",
